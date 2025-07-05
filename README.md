@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Hendridev">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hendridev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Asphyxia's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Hendridev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Hendridev's GitHub stats"/>
   </a>
   <a href="https://github.com/Hendridev">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hendridev&layout=compact&theme=tokyonight" alt="Asphyxia's top languages"/>
